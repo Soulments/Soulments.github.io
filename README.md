@@ -39,5 +39,5 @@
 - 실습 기간 : 2022.5 ~ 2022.6
 - 참고사항 : 리눅스활용실습 과목 프로젝트
 ## 5. Contact
-- Github : https://github.com/hyjeong99
+- Github : https://github.com/Soulments
 - E-mail : holove1225@naver.com
