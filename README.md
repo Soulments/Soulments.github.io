@@ -16,13 +16,14 @@
   - [itch.io](https://soulments.itch.io/eternalsmash)
 <details>
   <summary>개발 세부사항</summary>
-    
-  - 장르 : RPG
-  - 인원 : 3명
-  - 담당 역할 : 클라이언트 프로그래머(캐릭터 로직, 데이터 관리, 스테이지 구성 등)
-  - 개발 환경 : Unity, C#
-  - 개발 기간 : 2024.03 ~ 2024.11
-  - 참고사항 : 대학 졸업작품
+  <ul>
+    <li>장르 : RPG</li>
+    <li>인원 : 3명</li>
+    <li>담당 역할 : 클라이언트 프로그래머 (캐릭터 로직, 데이터 관리, 스테이지 구성 등)</li>
+    <li>개발 환경 : Unity, C#</li>
+    <li>개발 기간 : 2024.03 ~ 2024.11</li>
+    <li>참고사항 : 대학 졸업작품</li>
+  </ul>
 </details>
 
 ### 2) WhiterStory
@@ -30,13 +31,14 @@
 - https://github.com/tmf2377/OSS_WhiterStory222
 <details>
   <summary>개발 세부사항</summary>
-    
-  - 장르 : RPG
-  - 인원 : 4명
-  - 담당 역할 : 클라이언트 프로그래머(플레이어 로직 및 아이템 구현, 스테이지 구성)
-  - 개발 환경 : Unity
-  - 개발 기간 : 2022.10 ~ 2022.12
-  - 참고사항 : 오픈소스소프트웨어개발 과목 프로젝트, 유튜브 골드메탈 영상 기반
+  <ul>
+    <li>장르 : RPG</li>
+    <li>인원 : 4명</li>
+    <li>담당 역할 : 클라이언트 프로그래머 (플레이어 로직 및 아이템 구현, 스테이지 구성)</li>
+    <li>개발 환경 : Unity</li>
+    <li>개발 기간 : 2022.10 ~ 2022.12</li>
+    <li>참고사항 : 오픈소스소프트웨어개발 과목 프로젝트, 유튜브 골드메탈 영상 기반</li>
+  </ul>
 </details>
 
 ## 4. 실습
@@ -45,11 +47,12 @@
 - https://github.com/soulments/2D-Tile-Mapping
 <details>
   <summary>개발 세부사항</summary>
-    
-  - A* 알고리즘 실습 및 Unity 구현용
-  - 개발 환경 : Unity
-  - 실습 기간 : 2023.8
-  - 참고사항 : 광운대학교 컴퓨터 동아리 COM's 2023 회지 수록용
+  <ul>
+    <li>A* 알고리즘 실습 및 Unity 구현용</li>
+    <li>개발 환경 : Unity</li>
+    <li>실습 기간 : 2023.8</li>
+    <li>참고사항 : 광운대학교 컴퓨터 동아리 COM's 2023 회지 수록용</li>
+  </ul>
 </details>
 
 ### 2) 리눅스 쉘 프로그래밍을 이용한 Ataxx 보드 게임 프로그램 제작
@@ -57,11 +60,12 @@
 - https://github.com/soulments/Linux-Shell-Ataxx/tree/main
 <details>
   <summary>개발 세부사항</summary>
-    
-  - 쉘 프로그래밍 기반 Ataxx 보드 게임 기반 제작
-  - 개발 환경 : 리눅스 Shell
-  - 실습 기간 : 2022.5 ~ 2022.6
-  - 참고사항 : 리눅스활용실습 과목 프로젝트
+  <ul>
+    <li>쉘 프로그래밍 기반 Ataxx 보드 게임 제작</li>
+    <li>개발 환경 : 리눅스 Shell</li>
+    <li>실습 기간 : 2022.5 ~ 2022.6</li>
+    <li>참고사항 : 리눅스활용실습 과목 프로젝트</li>
+  </ul>
 </details>
 
 ## 5. Contact
